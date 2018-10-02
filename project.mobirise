@@ -14,9 +14,9 @@
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Oswald",
-        "display1Size": 4.25,
+        "display1Size": "3",
         "display2Font": "Oswald",
-        "display2Size": 3,
+        "display2Size": "2.5",
         "display5Font": "Oswald",
         "display5Size": "1",
         "display7Font": "Oswald",
@@ -98,6 +98,9 @@
               "padding-bottom": "1.5rem"
             },
             "H5": {
+              "text-align": "center"
+            },
+            "H1": {
               "text-align": "center"
             }
           },
