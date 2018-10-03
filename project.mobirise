@@ -21,7 +21,7 @@
         "display5Size": "1",
         "display7Font": "Oswald",
         "display7Size": 1,
-        "display4Font": "Oswald",
+        "display4Font": "Kelly Slab",
         "display4Size": "2",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
@@ -38,6 +38,31 @@
         "css": "'Oswald', sans-serif",
         "name": "Oswald",
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+      },
+      {
+        "css": "'Lobster', display",
+        "name": "Lobster",
+        "url": "https://fonts.googleapis.com/css?family=Lobster:400"
+      },
+      {
+        "css": "'Amatic SC', handwriting",
+        "name": "Amatic SC",
+        "url": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700"
+      },
+      {
+        "css": "'Russo One', sans-serif",
+        "name": "Russo One",
+        "url": "https://fonts.googleapis.com/css?family=Russo+One:400"
+      },
+      {
+        "css": "'Press Start 2P', display",
+        "name": "Press Start 2P",
+        "url": "https://fonts.googleapis.com/css?family=Press+Start+2P:400"
+      },
+      {
+        "css": "'Kelly Slab', display",
+        "name": "Kelly Slab",
+        "url": "https://fonts.googleapis.com/css?family=Kelly+Slab:400"
       }
     ],
     "versionFirst": "4.7.6",
