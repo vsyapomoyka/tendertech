@@ -1546,7 +1546,7 @@
     },
     "services.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "",
         "title": "Тендерные Технологии - Услуги",
         "order": 2
       },
